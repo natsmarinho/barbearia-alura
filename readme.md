@@ -20,7 +20,7 @@
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação
+> Link do deploy da aplicação: https://natsmarinho.github.io/barbearia-alura/
 
 ![](./src/imagens/gif.gif)
 
