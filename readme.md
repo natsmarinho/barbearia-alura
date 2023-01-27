@@ -6,12 +6,6 @@
 
 > Status do Projeto: :heavy_check_mark: concluído
 
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
 ## Descrição do projeto 
 
 <p align="justify">
