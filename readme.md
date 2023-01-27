@@ -30,7 +30,7 @@ HTML5 e CSS3
 
 
 ## Redes sociais
-Twitter: https://img.shields.io/twitter/follow/natsmarinho?style=social
+Twitter: https://twitter.com/natsmarinho
 Instagram: https://www.instagram.com/natsmarinho/
-Github: https://img.shields.io/github/followers/natsmarinho?style=social
+Github: https://github.com/natsmarinho
 Linkedin: https://www.linkedin.com/in/natsmarinho/
