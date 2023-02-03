@@ -219,3 +219,43 @@ td, th{
 	padding: 8px 15px;
 }
 
+/*página inicial*/
+
+.banner{
+	width: 100%;
+}
+
+.titulo-principal{
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.utensilios{
+	width: 120px;
+	float: left;
+	margin: 0 20px;
+}
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+.principal p{
+	margin: 0 0 1em;
+}
+
+.principal strong{
+	font-weight: bold;
+}
+
+.principal em{
+	font-style: italic;
+}
+
+.imagembeneficios{
+	width: 60%;
+}
+
+
