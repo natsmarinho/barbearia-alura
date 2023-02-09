@@ -237,6 +237,26 @@ td, th{
 	padding-top: 20px;
 }
 
+
+/*
+
+.titulo-principal::first-letter{
+	font-weight: bold;
+}
+
+.titulo-principal::before{
+	content: '[';
+}
+
+.titulo-principal::after{
+	content: ']';
+}
+
+p:first-line{
+	font-weight: bold;
+}
+*/
+
 .utensilios{
 	width: 120px;
 	float: left;
@@ -302,6 +322,10 @@ td, th{
 	font-weight: bolder;
 }
 
+.itens::before{
+	content: '✭';
+}
+
 .imagem-beneficios{
 	width: 60%;
 }
@@ -310,3 +334,23 @@ td, th{
 	width: 560px;
 	margin: 2em auto;
 }
+
+/*
+main > p{ 
+	pega os elementos filhos diretos
+}
+
+img + p{
+	seleciona o proximo elemento
+	imagem elemento ancora e o p é o proximo elemento irmão
+}
+
+img ~ p{
+	seleciona todos os proximos elementos
+}
+
+.principal p:not(#missao){
+	seleciona os elementos que não são determinado elemento, nesse exemplo, todas as tags p que não estão com o id missao foram selecionados
+}
+*/
+
